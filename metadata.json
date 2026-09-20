@@ -1,0 +1,6 @@
+{
+  "name": "Sahakar Sathi - Cooperative Governance & Rights Chatbot",
+  "description": "Multilingual AI assistant and guided-flow companion for Indian cooperative society members, explaining bylaws, voting eligibility, legal rights, document auditing, and grievance redressal under Cooperative Societies Acts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
